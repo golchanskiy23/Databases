@@ -1,0 +1,1 @@
+SELECT o.product_id FROM Products AS o WHERE o.low_fats = 'Y' AND o.recyclable = o.low_fats;
